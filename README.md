@@ -1,15 +1,10 @@
-```
-╔══════════════════════════════════════════════════════════════╗
-║ ISSUE #001 // YOGESH MAHAT // ETHICAL HACKING ZINE           ║
-║ EDITOR: @YOGESH-MAHAT  //  STATUS: LEARNING IN PUBLIC        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   BREAK THINGS.                                              ║
-║   ON PURPOSE.                                                ║
-║   WITH PERMISSION.                                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:E10600&height=180&section=header&text=YOGESH%20MAHAT&fontSize=60&fontColor=F2EFE4&animation=fadeIn&fontAlignY=42&desc=ISSUE%20%23001%20//%20ETHICAL%20HACKING%20ZINE&descSize=16&descAlignY=68" width="100%" alt="Yogesh Mahat header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E10600&center=true&vCenter=true&width=700&height=45&lines=Cybersecurity+Student;Aspiring+Ethical+Hacker;Nmap+%E2%80%A2+Burp+Suite+%E2%80%A2+Wireshark+%E2%80%A2+Kali;Break+things.+On+purpose.+With+permission." alt="Typing animation"/>
+
+</div>
 
 &nbsp;
 
@@ -68,6 +63,8 @@ LEARNING  >>  Python · C++ · SQL
 
 ## ▌05 / CURRENTLY
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00C853&background=00000000&width=620&height=90&lines=%24+nmap+-sV+scanme.nmap.org;%24+python3+learn.py+--daily;%24+tryhackme+--room+next;%24+echo+%22never+stop+learning%22" alt="Terminal animation"/>
+
 ```
 [LEARNING]  Python for security scripting
 [LEARNING]  C++ and SQL
@@ -89,10 +86,10 @@ Something is hiding in this file. Recon is a habit.
 
 </details>
 
-&nbsp;
-
 <div align="center">
 
 `NO TRACKING. NO COOKIES. NO MERCY (FOR MISCONFIGURATIONS).`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:111111&height=80&section=footer" width="100%" alt="footer"/>
 
 </div>
